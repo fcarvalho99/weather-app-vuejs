@@ -1,4 +1,6 @@
-# weather-app
+# Weather App
+
+Using the https://openweathermap.org/ API for current weather data
 
 ## Project setup
 ```
